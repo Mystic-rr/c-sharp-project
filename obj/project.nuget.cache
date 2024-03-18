@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gX2zRLuOb3q4SUVrHnlrRot0Y9zd0cgxjQDESZ46Dp3auQfBv3E/OyV9laA6URNicua6kCRdLR7ZTo/PcV6CQw==",
+  "success": true,
+  "projectFilePath": "D:\\project\\c-sharp-project\\wpf-project\\wpf-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
